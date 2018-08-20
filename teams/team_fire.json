@@ -1,0 +1,88 @@
+{
+    "info":{
+        "name": "fire"
+    },
+    "players":{
+    "5":{
+        "name": "Junior",
+        "power": 60,
+        "contact":50,
+        "speed":55,
+        "pos":"C"
+    },
+
+    "8":{
+        "name": "Jorge",
+        "power": 70,
+        "contact":55,
+        "speed":60,
+        "pos":"1B"
+    },
+
+    "7":{
+        "name": "Big Daddy",
+        "power": 50,
+        "contact":75,
+        "speed":75,
+        "pos":"2B"
+    },
+
+    "4":{
+        "name": "A-rrow",
+        "power": 80,
+        "contact":65,
+        "speed":65,
+        "pos":"3B"
+    },
+
+    "6":{
+        "name": "Altu",
+        "power": 50,
+        "contact":85,
+        "speed":85,
+        "pos":"SS"
+    },
+
+    "9":{
+        "name": "Machine",
+        "power": 40,
+        "contact":45,
+        "speed":45,
+        "pos":"RF"
+    },
+
+    "3":{
+        "name": "That Guy",
+        "power": 70,
+        "contact":75,
+        "speed":65,
+        "pos":"CF"
+    },
+    "1":{
+        "name": "JJ",
+        "power": 70,
+        "contact":55,
+        "speed":65,
+        "pos":"LF"
+    },
+    "2":{
+        "name": "Joe Example",
+        "power": 70,
+        "contact":55,
+        "speed":45,
+        "pos":"DH"
+    }
+
+    
+
+    },
+   
+    "pitcher":{
+        "name": "Rapidin",
+        "fastball": 95,
+        "control":90,
+        "movement":70
+    }
+
+    
+}

@@ -1,0 +1,88 @@
+{
+    "info":{
+        "name": "water"
+    },
+    "players":{
+    "5":{
+        "name": "Baby",
+        "power": 60,
+        "contact":70,
+        "speed":55,
+        "pos":"C"
+    },
+
+    "8":{
+        "name": "Babe",
+        "power": 50,
+        "contact":55,
+        "speed":60,
+        "pos":"1B"
+    },
+
+    "7":{
+        "name": "Little Daddy",
+        "power": 50,
+        "contact":75,
+        "speed":75,
+        "pos":"2B"
+    },
+
+    "4":{
+        "name": "Bieber",
+        "power": 80,
+        "contact":65,
+        "speed":65,
+        "pos":"3B"
+    },
+
+    "6":{
+        "name": "Judge",
+        "power": 50,
+        "contact":85,
+        "speed":85,
+        "pos":"SS"
+    },
+
+    "9":{
+        "name": "RObot",
+        "power": 40,
+        "contact":45,
+        "speed":45,
+        "pos":"RF"
+    },
+
+    "3":{
+        "name": "Me",
+        "power": 70,
+        "contact":75,
+        "speed":65,
+        "pos":"CF"
+    },
+    "1":{
+        "name": "Dominicano",
+        "power": 70,
+        "contact":55,
+        "speed":65,
+        "pos":"LF"
+    },
+    "2":{
+        "name": "Loco",
+        "power": 70,
+        "contact":55,
+        "speed":45,
+        "pos":"DH"
+    }
+
+    
+
+    },
+   
+    "pitcher":{
+        "name": "Meteorito",
+        "fastball": 100,
+        "control":80,
+        "movement":40
+    }
+
+    
+}
