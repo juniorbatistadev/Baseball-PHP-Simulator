@@ -1,4 +1,10 @@
-
 {
-  name: "baseball"
+    "name": "vendor-name/project-name",
+    "description": "This is a very cool package!",
+    "version": "0.3.0",
+    "type": "library",
+    "keywords": ["logging", "cool", "awesome"],
+    "homepage": "https://jolicode.com",
+    "time": "2012-12-21",
+    "license": "MIT"
 }
