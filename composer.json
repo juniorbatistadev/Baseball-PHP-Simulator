@@ -4,7 +4,7 @@
     "version": "0.3.0",
     "type": "library",
     "keywords": ["logging", "cool", "awesome"],
-    "homepage": "https://jolicode.com",
+    "homepage": "index.php",
     "time": "2012-12-21",
     "license": "MIT"
 }
